@@ -42,14 +42,18 @@ ul.nav {
   padding-left: 0;
 }
 
-#home_news {
-  padding-left: 10px;
+
+#home_news ol {
+  font-size: 20px;
+  list-style-type: none;
+  padding-left: 0;
 }
 
-#home_research {
-
+#home_research p {
+  text-align: justify;
+  font-size: 20px;
 }
 
 .footer {
-  font-size: 10px;
+  font-size: 14px;
 }
